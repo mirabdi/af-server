@@ -16,20 +16,19 @@ import numpy as np
 
 
 def make_list(path):
-    main_paths =  ["mTag", "PafA"]
+    main_paths =  ["PDB", "mTag", "PafA", "GFP"]
     remaining = []
     print("Starting to prepare the list")
     for curr in main_paths:
         current_path = path.parent
-        current_path = current_path.joinpath(f"AF/{curr}")
-        print(f"Looking for folders containing fasta files in AF/{curr}") 
+        current_path = current_path.joinpath(f"AF/{curr}/MSA")
+        print(f"Looking for folders containing not containing a3m files in AF/{curr}/MSA") 
         for seqpath in tqdm(current_path.iterdir()):
-            fasta_files = glob.glob(os.path.join(seqpath, '*.fasta'))
-            if len(fasta_files) != 0:
-                remaining.append(seqpath.parts[-1])
+            a3m_files = glob.glob(os.path.join(seqpath, '*.a3m'))
+            if len(a3m_files) == 0:
+                remaining.append("/curr/"+str(seqpath.parts[-1]))
         print(f"AF/{curr} completed!")
-    remaining = sorted(list(set(remaining)))
-    print(remaining)
+    # remaining = sorted(list(set(remaining)))
     return remaining 
 
 
@@ -60,18 +59,12 @@ class DistributionServer(DistributionBase):
                 break
             msg = self.sock.recv()
             print(msg)
-            seqs = []
-            for _ in range(100):
-                if len(self.remaining) == 0:
-                    break
-                seqs.append(self.remaining.pop())
-            
+            seq = str(self.remaining.pop())
             print(f"[{datetime.datetime.now()}]"
-                  f" ===== Got request, sending the sequence: {seqs}")
+                  f" ===== Got request, sending the sequence: {seq}")
             print(f"[{datetime.datetime.now()}]"
                   f" ===== Seqs remaining to fold: {len(self.remaining)}")
-            message = msgpack.dumps(seqs)
-            self.sock.send(message)
+            self.sock.send_string(seq)
             
             
 

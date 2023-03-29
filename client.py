@@ -2,6 +2,7 @@ import configparser
 import time
 import msgpack
 import zmq
+import sys
 
 from base import DistributionBase, get_args
 
@@ -26,8 +27,9 @@ class ConsumerClient(DistributionBase):
 
     def request_one(self):
         self.sock.send_string("Gimme seq")
-        seqs = msgpack.loads(self.sock.recv())
-        print(f"{len(seqs)} sequences received!")
+        seq = self.sock.recv_string()
+        sys.stdout.write(seq)
+        print(f"Received sequence {seq}")
         
 
 
