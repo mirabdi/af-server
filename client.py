@@ -1,6 +1,5 @@
 import configparser
 import time
-import msgpack
 import zmq
 import sys
 
