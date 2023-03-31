@@ -27,7 +27,6 @@ def make_list():
             pdb_files = sorted(seqpath.glob('*.pdb'))
             if len(pdb_files) == 0:
                 remaining.append(f"/{curr}/AFpred/{seqpath.name}")
-                print(remaining[-1])
         print(f"Finished adding paths from AF/{curr}!")
     # remaining = sorted(list(set(remaining)))
     return remaining[::-1] 
