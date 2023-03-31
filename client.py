@@ -28,8 +28,9 @@ class ConsumerClient(DistributionBase):
     def request_one(self):
         self.sock.send_string("Gimme seq")
         seq = self.sock.recv_string()
+        # sys.stdout.write("")
         sys.stdout.write(seq)
-        print(f"Received sequence {seq}")
+        # print(f"Received sequence {seq}")
         
 
 
@@ -44,5 +45,5 @@ if __name__ == '__main__':
         port=cfg['DEFAULT']['PORT'],
         server_ip=cfg['DEFAULT']['SERV_IP'],
     )
-    print("Requesting one: ")
+    # print("Requesting one: ")
     client.request_one()

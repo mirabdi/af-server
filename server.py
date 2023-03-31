@@ -21,12 +21,12 @@ def make_list(path):
     print("Starting to prepare the list")
     for curr in main_paths:
         current_path = path.parent
-        current_path = current_path.joinpath(f"AF/{curr}/MSA")
-        print(f"Looking for folders containing not containing a3m files in AF/{curr}/MSA") 
+        current_path = current_path.joinpath(f"././AFsequences/{curr}/AFpred")
+        print(f"Looking for folders containing not containing pdb files in AFsequences/{curr}/AFpred") 
         for seqpath in tqdm(current_path.iterdir()):
-            a3m_files = glob.glob(os.path.join(seqpath, '*.a3m'))
-            if len(a3m_files) == 0:
-                remaining.append("/curr/"+str(seqpath.parts[-1]))
+            pdb_files = glob.glob(os.path.join(seqpath, '*.pdb'))
+            if len(pdb_files) == 0:
+                remaining.append(f"/{curr}/AFpred/"+str(seqpath.parts[-1]))
         print(f"AF/{curr} completed!")
     # remaining = sorted(list(set(remaining)))
     return remaining 
@@ -50,7 +50,7 @@ class DistributionServer(DistributionBase):
 
 
         print(f"There are {len(self.remaining)} sequences to fold. Ready to serve.")
-
+        # print(self.remaining)
     def serve_4ever(self):
         print("Serving forever ...")
         while True:
