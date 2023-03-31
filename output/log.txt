@@ -1,0 +1,6 @@
+2023-03-29 21:40:38,411 Running colabfold 1.5.2 (5b3fc193e880cd9599f91cd16fcb1fe69f7759f2)
+2023-03-29 21:40:39,953 Running on GPU
+2023-03-29 21:40:40,381 Found 5 citations for tools or databases
+2023-03-29 21:40:40,381 Query 1/1: 1111111111111 (length 234)
+2023-03-29 21:40:40,417 Setting max_seq=512, max_extra_seq=120
+2023-03-29 21:41:15,824 alphafold2_ptm_model_1_seed_000 recycle=0 pLDDT=93.2 pTM=0.873
