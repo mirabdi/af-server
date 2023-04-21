@@ -35,7 +35,7 @@ def notify_users():
         return
     sender_email = "abdirasulov.main@gmail.com"
     receiver_email = "kerekemesterge@gmail.com"
-    password = "zxcbkryxuzhlsvfz"
+    password = "password_comes_here"
 
     subject = "Alphafold ERROR MESSAGES"
     
