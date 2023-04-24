@@ -1,4 +1,2 @@
-#!/usr/bin/bash
-source $PWD/Scripts/activate
-
-python3 inspect-clients.py
+echo $PWD
+python3 /home/protein/Protein/af-server/inspect-clients.py

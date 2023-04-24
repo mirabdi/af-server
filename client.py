@@ -25,7 +25,7 @@ class ConsumerClient(DistributionBase):
             self.request_one()
 
     def request_one(self):
-        self.sock.send_string("cp1")
+        self.sock.send_string("cp0")
         seq = self.sock.recv_string()
         # sys.stdout.write("")
         sys.stdout.write(seq)

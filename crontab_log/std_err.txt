@@ -1,7 +1,0 @@
-rsync: failed to set times on "/data/Protein/AFsequences": Operation not permitted (1)
-rsync: failed to set times on "/data/Protein/AFsequences/GFP": Operation not permitted (1)
-rsync: failed to set times on "/data/Protein/AFsequences/PDB": Operation not permitted (1)
-rsync: failed to set times on "/data/Protein/AFsequences/PafA": Operation not permitted (1)
-rsync: failed to set times on "/data/Protein/AFsequences/mTag": Operation not permitted (1)
-rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.2.7]
-/home/main/dev/af-server/sync-folders.sh: 9: Syntax error: "done" unexpected

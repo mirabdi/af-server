@@ -62,7 +62,10 @@ class DistributionServer(DistributionBase):
             msg = self.sock.recv()
             seq = str(self.remaining.pop())
             self.sock.send_string(seq)
-            
+            print(f"[{datetime.datetime.now()} ===== Got request, sending the sequence: {seq}")
+            print(f"[{datetime.datetime.now()}] ===== Seqs remaining to fold: {len(self.remaining)}\n")
+
+            self.log_client_request(msg, seq)          
             self.count += 1
             self.load_extra_seq()
 
@@ -72,6 +75,7 @@ class DistributionServer(DistributionBase):
             extra = [l.strip('\n') for l in open(seq_path)]
             os.remove(seq_path)
             self.remaining.extend(extra)
+            self.log_extra_seq(extra)
 
     def log_client_request(self, msg, seq):
         with open('log/server.log', 'a') as o:
@@ -89,7 +93,6 @@ if __name__ == '__main__':
 
     cfg = configparser.ConfigParser()
     cfg.read('config.ini')
-
     serv = DistributionServer(
         af2_out_path=args.dir,
         port=cfg['DEFAULT']['PORT']
