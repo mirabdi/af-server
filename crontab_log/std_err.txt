@@ -1,0 +1,48 @@
+/home/protein/Protein/af-server
+["b'cp4'", "b'cp5'"]
+/home/amirbek
+["b'cp4'", "b'cp5'"]
+/home/amirbek
+["b'cp4'", "b'cp5'"]
+/home/amirbek
+["b'cp4'", "b'cp5'"]
+/home/amirbek
+["b'cp4'", "b'cp5'"]
+/home/amirbek
+["b'cp4'", "b'cp5'"]
+/home/amirbek
+["b'cp4'", "b'cp5'"]
+/home/amirbek
+["b'cp4'", "b'cp5'"]
+/home/amirbek
+["b'cp4'", "b'cp5'"]
+/home/amirbek
+["b'cp4'", "b'cp5'"]
+/home/amirbek
+["b'cp4'", "b'cp5'"]
+/home/amirbek
+["b'cp4'", "b'cp5'"]
+/home/amirbek
+["b'cp4'", "b'cp5'"]
+/home/amirbek
+["b'cp1'"]
+/home/amirbek
+["b'cp1'"]
+/home/amirbek
+["b'cp1'"]
+/home/amirbek
+["b'cp1'"]
+/home/amirbek
+["b'cp1'"]
+/home/amirbek
+["b'cp1'"]
+/home/amirbek
+["b'cp1'"]
+/home/amirbek
+["b'cp1'"]
+/home/amirbek
+["b'cp1'"]
+/home/amirbek
+["b'cp1'"]
+/home/amirbek
+["b'cp1'"]

@@ -22183,3 +22183,576 @@ b'cp2'
 b'cp3'
 [2023-04-24 21:43:19.011265 ===== Got request, sending the sequence: /mTag/AFpred/1101110100011
 [2023-04-24 21:43:19.011280] ===== Seqs remaining to fold: 54300
+b'cp0'
+[2023-04-24 21:44:43.909874 ===== Got request, sending the sequence: /mTag/AFpred/1110100111100
+[2023-04-24 21:44:43.909891] ===== Seqs remaining to fold: 54299
+b'cp3'
+[2023-04-24 21:46:45.551134 ===== Got request, sending the sequence: /mTag/AFpred/1111111101011
+[2023-04-24 21:46:45.551149] ===== Seqs remaining to fold: 54298
+b'cp2'
+[2023-04-24 21:49:17.721144 ===== Got request, sending the sequence: /mTag/AFpred/1110110010100
+[2023-04-24 21:49:17.721159] ===== Seqs remaining to fold: 54297
+b'cp0'
+[2023-04-24 21:56:09.219496 ===== Got request, sending the sequence: /mTag/AFpred/1111000000111
+[2023-04-24 21:56:09.219512] ===== Seqs remaining to fold: 54296
+b'cp2'
+[2023-04-24 22:01:01.849775 ===== Got request, sending the sequence: /mTag/AFpred/1111110001100
+[2023-04-24 22:01:01.849791] ===== Seqs remaining to fold: 54295
+b'cp3'
+[2023-04-24 22:04:21.910290 ===== Got request, sending the sequence: /mTag/AFpred/1111011001011
+[2023-04-24 22:04:21.910304] ===== Seqs remaining to fold: 54294
+b'cp0'
+[2023-04-24 22:07:24.484442 ===== Got request, sending the sequence: /mTag/AFpred/1111100110001
+[2023-04-24 22:07:24.484458] ===== Seqs remaining to fold: 54293
+b'cp3'
+[2023-04-24 22:07:48.375696 ===== Got request, sending the sequence: /mTag/AFpred/1101011011001
+[2023-04-24 22:07:48.375712] ===== Seqs remaining to fold: 54292
+b'cp2'
+[2023-04-24 22:12:46.324304 ===== Got request, sending the sequence: /mTag/AFpred/1101101010010
+[2023-04-24 22:12:46.324317] ===== Seqs remaining to fold: 54291
+b'cp0'
+[2023-04-24 22:18:40.153772 ===== Got request, sending the sequence: /mTag/AFpred/1101101011001
+[2023-04-24 22:18:40.153787] ===== Seqs remaining to fold: 54290
+b'cp2'
+[2023-04-24 22:24:32.729061 ===== Got request, sending the sequence: /mTag/AFpred/1110011100001
+[2023-04-24 22:24:32.729076] ===== Seqs remaining to fold: 54289
+b'cp3'
+[2023-04-24 22:25:21.915696 ===== Got request, sending the sequence: /mTag/AFpred/1101110100100
+[2023-04-24 22:25:21.915712] ===== Seqs remaining to fold: 54288
+b'cp3'
+[2023-04-24 22:28:37.584297 ===== Got request, sending the sequence: /mTag/AFpred/1111111101100
+[2023-04-24 22:28:37.584312] ===== Seqs remaining to fold: 54287
+b'cp0'
+[2023-04-24 22:29:54.734405 ===== Got request, sending the sequence: /mTag/AFpred/1110110010101
+[2023-04-24 22:29:54.734420] ===== Seqs remaining to fold: 54286
+b'cp2'
+[2023-04-24 22:36:21.977230 ===== Got request, sending the sequence: /mTag/AFpred/1111110001101
+[2023-04-24 22:36:21.977247] ===== Seqs remaining to fold: 54285
+b'cp0'
+[2023-04-24 22:41:10.828135 ===== Got request, sending the sequence: /mTag/AFpred/1111011001101
+[2023-04-24 22:41:10.828150] ===== Seqs remaining to fold: 54284
+b'cp3'
+[2023-04-24 22:46:07.081535 ===== Got request, sending the sequence: /mTag/AFpred/1110100111101
+[2023-04-24 22:46:07.081552] ===== Seqs remaining to fold: 54283
+b'cp2'
+[2023-04-24 22:48:09.851392 ===== Got request, sending the sequence: /mTag/AFpred/1111100101100
+[2023-04-24 22:48:09.851406] ===== Seqs remaining to fold: 54282
+b'cp3'
+[2023-04-24 22:49:22.691185 ===== Got request, sending the sequence: /mTag/AFpred/1111100110101
+[2023-04-24 22:49:22.691200] ===== Seqs remaining to fold: 54281
+b'cp0'
+[2023-04-24 22:52:24.865268 ===== Got request, sending the sequence: /mTag/AFpred/1101101010011
+[2023-04-24 22:52:24.865283] ===== Seqs remaining to fold: 54280
+b'cp2'
+[2023-04-24 22:59:53.623381 ===== Got request, sending the sequence: /mTag/AFpred/1101011011010
+[2023-04-24 22:59:53.623399] ===== Seqs remaining to fold: 54279
+b'cp0'
+[2023-04-24 23:03:40.728050 ===== Got request, sending the sequence: /mTag/AFpred/1110000011101
+[2023-04-24 23:03:40.728065] ===== Seqs remaining to fold: 54278
+b'cp3'
+[2023-04-24 23:06:42.976806 ===== Got request, sending the sequence: /mTag/AFpred/1110100000010
+[2023-04-24 23:06:42.976822] ===== Seqs remaining to fold: 54277
+b'cp3'
+[2023-04-24 23:10:02.964551 ===== Got request, sending the sequence: /mTag/AFpred/1101110100101
+[2023-04-24 23:10:02.964566] ===== Seqs remaining to fold: 54276
+b'cp2'
+[2023-04-24 23:11:36.570238 ===== Got request, sending the sequence: /mTag/AFpred/1111111101101
+[2023-04-24 23:11:36.570253] ===== Seqs remaining to fold: 54275
+b'cp0'
+[2023-04-24 23:14:53.688247 ===== Got request, sending the sequence: /mTag/AFpred/1110110010110
+[2023-04-24 23:14:53.688263] ===== Seqs remaining to fold: 54274
+b'cp2'
+[2023-04-24 23:23:17.063067 ===== Got request, sending the sequence: /mTag/AFpred/1111000001111
+[2023-04-24 23:23:17.063082] ===== Seqs remaining to fold: 54273
+b'cp0'
+[2023-04-24 23:26:14.865652 ===== Got request, sending the sequence: /mTag/AFpred/1111000010001
+[2023-04-24 23:26:14.865666] ===== Seqs remaining to fold: 54272
+b'cp3'
+[2023-04-24 23:27:18.476471 ===== Got request, sending the sequence: /mTag/AFpred/1111100101111
+[2023-04-24 23:27:18.476487] ===== Seqs remaining to fold: 54271
+b'cp3'
+[2023-04-24 23:30:43.928424 ===== Got request, sending the sequence: /mTag/AFpred/1101101010100
+[2023-04-24 23:30:43.928439] ===== Seqs remaining to fold: 54270
+b'cp2'
+[2023-04-24 23:35:00.548822 ===== Got request, sending the sequence: /mTag/AFpred/1101101010101
+[2023-04-24 23:35:00.548837] ===== Seqs remaining to fold: 54269
+b'cp0'
+[2023-04-24 23:37:33.102071 ===== Got request, sending the sequence: /mTag/AFpred/1111011001111
+[2023-04-24 23:37:33.102086] ===== Seqs remaining to fold: 54268
+b'cp2'
+[2023-04-24 23:46:38.822702 ===== Got request, sending the sequence: /mTag/AFpred/1110011100111
+[2023-04-24 23:46:38.822718] ===== Seqs remaining to fold: 54267
+b'cp3'
+[2023-04-24 23:48:01.624978 ===== Got request, sending the sequence: /mTag/AFpred/1111110001110
+[2023-04-24 23:48:01.624993] ===== Seqs remaining to fold: 54266
+b'cp0'
+[2023-04-24 23:48:49.508574 ===== Got request, sending the sequence: /mTag/AFpred/1110001101011
+[2023-04-24 23:48:49.508589] ===== Seqs remaining to fold: 54265
+b'cp3'
+[2023-04-24 23:51:25.253072 ===== Got request, sending the sequence: /mTag/AFpred/1110001101100
+[2023-04-24 23:51:25.253087] ===== Seqs remaining to fold: 54264
+b'cp2'
+[2023-04-24 23:58:13.351449 ===== Got request, sending the sequence: /mTag/AFpred/1111111101110
+[2023-04-24 23:58:13.351464] ===== Seqs remaining to fold: 54263
+b'cp0'
+[2023-04-25 00:00:00.964883 ===== Got request, sending the sequence: /mTag/AFpred/1110110010111
+[2023-04-25 00:00:00.964898] ===== Seqs remaining to fold: 54262
+b'cp3'
+[2023-04-25 00:08:55.020615 ===== Got request, sending the sequence: /mTag/AFpred/1111000010011
+[2023-04-25 00:08:55.020631] ===== Seqs remaining to fold: 54261
+b'cp2'
+[2023-04-25 00:09:51.733840 ===== Got request, sending the sequence: /mTag/AFpred/1111100110111
+[2023-04-25 00:09:51.733854] ===== Seqs remaining to fold: 54260
+b'cp0'
+[2023-04-25 00:11:13.961972 ===== Got request, sending the sequence: /mTag/AFpred/1111001101001
+[2023-04-25 00:11:13.961987] ===== Seqs remaining to fold: 54259
+b'cp3'
+[2023-04-25 00:12:09.786509 ===== Got request, sending the sequence: /mTag/AFpred/1111001101010
+[2023-04-25 00:12:09.786524] ===== Seqs remaining to fold: 54258
+b'cp2'
+[2023-04-25 00:21:29.580294 ===== Got request, sending the sequence: /mTag/AFpred/1101011011100
+[2023-04-25 00:21:29.580309] ===== Seqs remaining to fold: 54257
+b'cp0'
+[2023-04-25 00:22:27.947824 ===== Got request, sending the sequence: /mTag/AFpred/1111011001110
+[2023-04-25 00:22:27.947839] ===== Seqs remaining to fold: 54256
+b'cp3'
+[2023-04-25 00:29:29.936612 ===== Got request, sending the sequence: /mTag/AFpred/1110000011000
+[2023-04-25 00:29:29.936627] ===== Seqs remaining to fold: 54255
+b'cp3'
+[2023-04-25 00:32:49.393319 ===== Got request, sending the sequence: /mTag/AFpred/1111110001111
+[2023-04-25 00:32:49.393334] ===== Seqs remaining to fold: 54254
+b'cp2'
+[2023-04-25 00:33:05.498429 ===== Got request, sending the sequence: /mTag/AFpred/1110001101101
+[2023-04-25 00:33:05.498443] ===== Seqs remaining to fold: 54253
+b'cp0'
+[2023-04-25 00:33:43.373184 ===== Got request, sending the sequence: /mTag/AFpred/1111111101111
+[2023-04-25 00:33:43.373198] ===== Seqs remaining to fold: 54252
+b'cp2'
+[2023-04-25 00:44:39.146380 ===== Got request, sending the sequence: /mTag/AFpred/1110110011000
+[2023-04-25 00:44:39.146395] ===== Seqs remaining to fold: 54251
+b'cp0'
+[2023-04-25 00:44:56.951853 ===== Got request, sending the sequence: /mTag/AFpred/1110110100000
+[2023-04-25 00:44:56.951867] ===== Seqs remaining to fold: 54250
+b'cp3'
+[2023-04-25 00:50:02.045508 ===== Got request, sending the sequence: /mTag/AFpred/1111000010010
+[2023-04-25 00:50:02.045524] ===== Seqs remaining to fold: 54249
+b'cp3'
+[2023-04-25 00:53:28.659303 ===== Got request, sending the sequence: /mTag/AFpred/1101101010110
+[2023-04-25 00:53:28.659318] ===== Seqs remaining to fold: 54248
+b'cp0'
+[2023-04-25 00:56:09.255283 ===== Got request, sending the sequence: /mTag/AFpred/1101011011101
+[2023-04-25 00:56:09.255298] ===== Seqs remaining to fold: 54247
+b'cp2'
+[2023-04-25 00:56:17.378824 ===== Got request, sending the sequence: /mTag/AFpred/1111001101011
+[2023-04-25 00:56:17.378838] ===== Seqs remaining to fold: 54246
+b'cp0'
+[2023-04-25 01:07:21.053155 ===== Got request, sending the sequence: /mTag/AFpred/1111011010001
+[2023-04-25 01:07:21.053170] ===== Seqs remaining to fold: 54245
+b'cp2'
+[2023-04-25 01:07:53.225864 ===== Got request, sending the sequence: /mTag/AFpred/1110000011001
+[2023-04-25 01:07:53.225879] ===== Seqs remaining to fold: 54244
+b'cp3'
+[2023-04-25 01:10:34.859591 ===== Got request, sending the sequence: /mTag/AFpred/1111110010000
+[2023-04-25 01:10:34.859608] ===== Seqs remaining to fold: 54243
+b'cp3'
+[2023-04-25 01:14:08.745172 ===== Got request, sending the sequence: /mTag/AFpred/1110001101110
+[2023-04-25 01:14:08.745187] ===== Seqs remaining to fold: 54242
+b'cp0'
+[2023-04-25 01:18:36.673166 ===== Got request, sending the sequence: /mTag/AFpred/1110011100100
+[2023-04-25 01:18:36.673181] ===== Seqs remaining to fold: 54241
+b'cp2'
+[2023-04-25 01:19:32.370881 ===== Got request, sending the sequence: /mTag/AFpred/1111111110000
+[2023-04-25 01:19:32.370894] ===== Seqs remaining to fold: 54240
+b'cp0'
+[2023-04-25 01:29:50.547761 ===== Got request, sending the sequence: /mTag/AFpred/1110110011001
+[2023-04-25 01:29:50.547777] ===== Seqs remaining to fold: 54239
+b'cp2'
+[2023-04-25 01:31:08.981834 ===== Got request, sending the sequence: /mTag/AFpred/1111000010100
+[2023-04-25 01:31:08.981849] ===== Seqs remaining to fold: 54238
+b'cp3'
+[2023-04-25 01:31:12.712458 ===== Got request, sending the sequence: /mTag/AFpred/1111100111000
+[2023-04-25 01:31:12.712471] ===== Seqs remaining to fold: 54237
+b'cp3'
+[2023-04-25 01:34:45.191419 ===== Got request, sending the sequence: /mTag/AFpred/1101101010111
+[2023-04-25 01:34:45.191433] ===== Seqs remaining to fold: 54236
+b'cp0'
+[2023-04-25 01:41:03.971600 ===== Got request, sending the sequence: /mTag/AFpred/1101101011000
+[2023-04-25 01:41:03.971615] ===== Seqs remaining to fold: 54235
+b'cp2'
+[2023-04-25 01:42:46.115497 ===== Got request, sending the sequence: /mTag/AFpred/1111001110100
+[2023-04-25 01:42:46.115512] ===== Seqs remaining to fold: 54234
+b'cp3'
+[2023-04-25 01:51:46.146728 ===== Got request, sending the sequence: /mTag/AFpred/1110000011010
+[2023-04-25 01:51:46.146743] ===== Seqs remaining to fold: 54233
+b'cp0'
+[2023-04-25 01:52:17.607300 ===== Got request, sending the sequence: /mTag/AFpred/1111110010100
+[2023-04-25 01:52:17.607314] ===== Seqs remaining to fold: 54232
+b'cp2'
+[2023-04-25 01:54:22.989393 ===== Got request, sending the sequence: /mTag/AFpred/1110011100010
+[2023-04-25 01:54:22.989408] ===== Seqs remaining to fold: 54231
+b'cp3'
+[2023-04-25 01:55:19.853098 ===== Got request, sending the sequence: /mTag/AFpred/1111111110001
+[2023-04-25 01:55:19.853111] ===== Seqs remaining to fold: 54230
+b'cp0'
+[2023-04-25 02:03:33.013972 ===== Got request, sending the sequence: /mTag/AFpred/1110110011010
+[2023-04-25 02:03:33.013989] ===== Seqs remaining to fold: 54229
+b'cp2'
+[2023-04-25 02:05:55.904269 ===== Got request, sending the sequence: /mTag/AFpred/1111100110000
+[2023-04-25 02:05:55.904284] ===== Seqs remaining to fold: 54228
+b'cp3'
+[2023-04-25 02:12:17.792982 ===== Got request, sending the sequence: /mTag/AFpred/1111000010000
+[2023-04-25 02:12:17.792998] ===== Seqs remaining to fold: 54227
+b'cp0'
+[2023-04-25 02:14:55.715400 ===== Got request, sending the sequence: /mTag/AFpred/1101011011111
+[2023-04-25 02:14:55.715416] ===== Seqs remaining to fold: 54226
+b'cp3'
+[2023-04-25 02:15:57.520546 ===== Got request, sending the sequence: /mTag/AFpred/1111001101100
+[2023-04-25 02:15:57.520561] ===== Seqs remaining to fold: 54225
+b'cp2'
+[2023-04-25 02:17:33.244417 ===== Got request, sending the sequence: /mTag/AFpred/1111011010000
+[2023-04-25 02:17:33.244432] ===== Seqs remaining to fold: 54224
+b'cp0'
+[2023-04-25 02:26:10.975393 ===== Got request, sending the sequence: /mTag/AFpred/1111110010001
+[2023-04-25 02:26:10.975408] ===== Seqs remaining to fold: 54223
+b'cp2'
+[2023-04-25 02:29:08.008517 ===== Got request, sending the sequence: /mTag/AFpred/1110011100011
+[2023-04-25 02:29:08.008532] ===== Seqs remaining to fold: 54222
+b'cp3'
+[2023-04-25 02:32:47.392144 ===== Got request, sending the sequence: /mTag/AFpred/1110011100110
+[2023-04-25 02:32:47.392160] ===== Seqs remaining to fold: 54221
+b'cp3'
+[2023-04-25 02:36:30.673004 ===== Got request, sending the sequence: /mTag/AFpred/1111111110010
+[2023-04-25 02:36:30.673018] ===== Seqs remaining to fold: 54220
+b'cp0'
+[2023-04-25 02:37:28.387642 ===== Got request, sending the sequence: /mTag/AFpred/1110110011011
+[2023-04-25 02:37:28.387656] ===== Seqs remaining to fold: 54219
+b'cp2'
+[2023-04-25 02:40:43.752995 ===== Got request, sending the sequence: /mTag/AFpred/1111100110110
+[2023-04-25 02:40:43.753009] ===== Seqs remaining to fold: 54218
+b'cp0'
+[2023-04-25 02:48:45.318197 ===== Got request, sending the sequence: /mTag/AFpred/1111001101101
+[2023-04-25 02:48:45.318213] ===== Seqs remaining to fold: 54217
+b'cp2'
+[2023-04-25 02:52:17.717512 ===== Got request, sending the sequence: /mTag/AFpred/1111000001110
+[2023-04-25 02:52:17.717527] ===== Seqs remaining to fold: 54216
+b'cp3'
+[2023-04-25 02:53:17.781458 ===== Got request, sending the sequence: /mTag/AFpred/1111110010010
+[2023-04-25 02:53:17.781471] ===== Seqs remaining to fold: 54215
+b'cp3'
+[2023-04-25 02:57:09.155420 ===== Got request, sending the sequence: /mTag/AFpred/1111110010101
+[2023-04-25 02:57:09.155434] ===== Seqs remaining to fold: 54214
+b'cp0'
+[2023-04-25 02:59:58.085506 ===== Got request, sending the sequence: /mTag/AFpred/1110000011011
+[2023-04-25 02:59:58.085522] ===== Seqs remaining to fold: 54213
+b'cp2'
+[2023-04-25 03:03:53.596704 ===== Got request, sending the sequence: /mTag/AFpred/1110011101001
+[2023-04-25 03:03:53.596720] ===== Seqs remaining to fold: 54212
+b'cp0'
+[2023-04-25 03:11:13.026527 ===== Got request, sending the sequence: /mTag/AFpred/1110001101111
+[2023-04-25 03:11:13.026542] ===== Seqs remaining to fold: 54211
+b'cp3'
+[2023-04-25 03:13:54.563099 ===== Got request, sending the sequence: /mTag/AFpred/1111111110011
+[2023-04-25 03:13:54.563114] ===== Seqs remaining to fold: 54210
+b'cp2'
+[2023-04-25 03:15:32.159829 ===== Got request, sending the sequence: /mTag/AFpred/1110110011100
+[2023-04-25 03:15:32.159843] ===== Seqs remaining to fold: 54209
+b'cp3'
+[2023-04-25 03:17:43.596879 ===== Got request, sending the sequence: /mTag/AFpred/1111100110010
+[2023-04-25 03:17:43.596894] ===== Seqs remaining to fold: 54208
+b'cp0'
+[2023-04-25 03:22:26.802674 ===== Got request, sending the sequence: /mTag/AFpred/1111001101110
+[2023-04-25 03:22:26.802688] ===== Seqs remaining to fold: 54207
+b'cp2'
+[2023-04-25 03:27:09.480566 ===== Got request, sending the sequence: /mTag/AFpred/1111001110001
+[2023-04-25 03:27:09.480581] ===== Seqs remaining to fold: 54206
+b'cp0'
+[2023-04-25 03:33:42.743317 ===== Got request, sending the sequence: /mTag/AFpred/1111110010011
+[2023-04-25 03:33:42.743332] ===== Seqs remaining to fold: 54205
+b'cp3'
+[2023-04-25 03:34:26.742029 ===== Got request, sending the sequence: /mTag/AFpred/1110000011100
+[2023-04-25 03:34:26.742044] ===== Seqs remaining to fold: 54204
+b'cp3'
+[2023-04-25 03:38:16.078315 ===== Got request, sending the sequence: /mTag/AFpred/1110011100101
+[2023-04-25 03:38:16.078331] ===== Seqs remaining to fold: 54203
+b'cp2'
+[2023-04-25 03:38:46.188216 ===== Got request, sending the sequence: /mTag/AFpred/1110100000110
+[2023-04-25 03:38:46.188230] ===== Seqs remaining to fold: 54202
+b'cp0'
+[2023-04-25 03:44:56.579142 ===== Got request, sending the sequence: /mTag/AFpred/1110100000111
+[2023-04-25 03:44:56.579157] ===== Seqs remaining to fold: 54201
+b'cp2'
+[2023-04-25 03:50:22.256555 ===== Got request, sending the sequence: /mTag/AFpred/1110110011101
+[2023-04-25 03:50:22.256570] ===== Seqs remaining to fold: 54200
+b'cp3'
+[2023-04-25 03:55:01.935871 ===== Got request, sending the sequence: /mTag/AFpred/1111100110011
+[2023-04-25 03:55:01.935886] ===== Seqs remaining to fold: 54199
+b'cp0'
+[2023-04-25 03:56:11.208140 ===== Got request, sending the sequence: /mTag/AFpred/1111001101111
+[2023-04-25 03:56:11.208156] ===== Seqs remaining to fold: 54198
+b'cp3'
+[2023-04-25 03:58:49.099907 ===== Got request, sending the sequence: /mTag/AFpred/1111001110010
+[2023-04-25 03:58:49.099923] ===== Seqs remaining to fold: 54197
+b'cp2'
+[2023-04-25 04:01:59.018461 ===== Got request, sending the sequence: /mTag/AFpred/1111110010110
+[2023-04-25 04:01:59.018475] ===== Seqs remaining to fold: 54196
+b'cp0'
+[2023-04-25 04:07:27.453225 ===== Got request, sending the sequence: /mTag/AFpred/1111011010011
+[2023-04-25 04:07:27.453240] ===== Seqs remaining to fold: 54195
+b'cp2'
+[2023-04-25 04:13:35.683985 ===== Got request, sending the sequence: /mTag/AFpred/1111011010100
+[2023-04-25 04:13:35.684001] ===== Seqs remaining to fold: 54194
+b'cp3'
+[2023-04-25 04:15:37.989926 ===== Got request, sending the sequence: /mTag/AFpred/1110001110000
+[2023-04-25 04:15:37.989940] ===== Seqs remaining to fold: 54193
+b'cp0'
+[2023-04-25 04:18:47.577602 ===== Got request, sending the sequence: /mTag/AFpred/1111111110101
+[2023-04-25 04:18:47.577617] ===== Seqs remaining to fold: 54192
+b'cp3'
+[2023-04-25 04:19:33.091398 ===== Got request, sending the sequence: /mTag/AFpred/1110110011110
+[2023-04-25 04:19:33.091413] ===== Seqs remaining to fold: 54191
+b'cp2'
+[2023-04-25 04:25:11.643616 ===== Got request, sending the sequence: /mTag/AFpred/1111100110100
+[2023-04-25 04:25:11.643631] ===== Seqs remaining to fold: 54190
+b'cp0'
+[2023-04-25 04:30:05.505889 ===== Got request, sending the sequence: /mTag/AFpred/1111001110000
+[2023-04-25 04:30:05.505904] ===== Seqs remaining to fold: 54189
+b'cp3'
+[2023-04-25 04:36:08.301463 ===== Got request, sending the sequence: /mTag/AFpred/1111001110011
+[2023-04-25 04:36:08.301478] ===== Seqs remaining to fold: 54188
+b'cp2'
+[2023-04-25 04:36:46.811874 ===== Got request, sending the sequence: /mTag/AFpred/1111110010111
+[2023-04-25 04:36:46.811889] ===== Seqs remaining to fold: 54187
+b'cp3'
+[2023-04-25 04:40:09.794872 ===== Got request, sending the sequence: /mTag/AFpred/1110011101000
+[2023-04-25 04:40:09.794887] ===== Seqs remaining to fold: 54186
+b'cp0'
+[2023-04-25 04:41:19.338698 ===== Got request, sending the sequence: /mTag/AFpred/1110100001000
+[2023-04-25 04:41:19.338712] ===== Seqs remaining to fold: 54185
+b'cp2'
+[2023-04-25 04:48:23.739070 ===== Got request, sending the sequence: /mTag/AFpred/1111011010101
+[2023-04-25 04:48:23.739084] ===== Seqs remaining to fold: 54184
+b'cp0'
+[2023-04-25 04:52:32.448045 ===== Got request, sending the sequence: /mTag/AFpred/1110110011111
+[2023-04-25 04:52:32.448060] ===== Seqs remaining to fold: 54183
+b'cp3'
+[2023-04-25 04:56:39.698916 ===== Got request, sending the sequence: /mTag/AFpred/1110110100001
+[2023-04-25 04:56:39.698930] ===== Seqs remaining to fold: 54182
+b'cp2'
+[2023-04-25 05:00:04.276035 ===== Got request, sending the sequence: /mTag/AFpred/1111100101101
+[2023-04-25 05:00:04.276050] ===== Seqs remaining to fold: 54181
+b'cp3'
+[2023-04-25 05:00:43.854969 ===== Got request, sending the sequence: /mTag/AFpred/1111100101110
+[2023-04-25 05:00:43.854983] ===== Seqs remaining to fold: 54180
+b'cp0'
+[2023-04-25 05:03:47.213493 ===== Got request, sending the sequence: /mTag/AFpred/1111110011000
+[2023-04-25 05:03:47.213508] ===== Seqs remaining to fold: 54179
+b'cp2'
+[2023-04-25 05:11:42.461949 ===== Got request, sending the sequence: /mTag/AFpred/1111110100001
+[2023-04-25 05:11:42.461965] ===== Seqs remaining to fold: 54178
+b'cp0'
+[2023-04-25 05:15:00.036805 ===== Got request, sending the sequence: /mTag/AFpred/1110100010110
+[2023-04-25 05:15:00.036819] ===== Seqs remaining to fold: 54177
+b'cp3'
+[2023-04-25 05:17:20.542367 ===== Got request, sending the sequence: /mTag/AFpred/1110100011000
+[2023-04-25 05:17:20.542382] ===== Seqs remaining to fold: 54176
+b'cp3'
+[2023-04-25 05:21:25.260717 ===== Got request, sending the sequence: /mTag/AFpred/1111111110111
+[2023-04-25 05:21:25.260732] ===== Seqs remaining to fold: 54175
+b'cp2'
+[2023-04-25 05:23:20.452510 ===== Got request, sending the sequence: /mTag/AFpred/1110110100010
+[2023-04-25 05:23:20.452524] ===== Seqs remaining to fold: 54174
+b'cp0'
+[2023-04-25 05:26:13.166937 ===== Got request, sending the sequence: /mTag/AFpred/1110110100110
+[2023-04-25 05:26:13.166951] ===== Seqs remaining to fold: 54173
+b'cp2'
+[2023-04-25 05:34:54.830505 ===== Got request, sending the sequence: /mTag/AFpred/1111100111110
+[2023-04-25 05:34:54.830521] ===== Seqs remaining to fold: 54172
+b'cp0'
+[2023-04-25 05:37:26.650473 ===== Got request, sending the sequence: /mTag/AFpred/1111001110110
+[2023-04-25 05:37:26.650489] ===== Seqs remaining to fold: 54171
+b'cp3'
+[2023-04-25 05:37:52.016949 ===== Got request, sending the sequence: /mTag/AFpred/1111110011001
+[2023-04-25 05:37:52.016963] ===== Seqs remaining to fold: 54170
+b'cp3'
+[2023-04-25 05:41:57.130222 ===== Got request, sending the sequence: /mTag/AFpred/1111111001111
+[2023-04-25 05:41:57.130238] ===== Seqs remaining to fold: 54169
+b'cp2'
+[2023-04-25 05:46:31.435665 ===== Got request, sending the sequence: /mTag/AFpred/1110100010111
+[2023-04-25 05:46:31.435678] ===== Seqs remaining to fold: 54168
+b'cp0'
+[2023-04-25 05:48:40.213919 ===== Got request, sending the sequence: /mTag/AFpred/1110100011001
+[2023-04-25 05:48:40.213934] ===== Seqs remaining to fold: 54167
+b'cp2'
+[2023-04-25 05:58:07.501206 ===== Got request, sending the sequence: /mTag/AFpred/1111111111000
+[2023-04-25 05:58:07.501220] ===== Seqs remaining to fold: 54166
+b'cp3'
+[2023-04-25 05:58:32.888334 ===== Got request, sending the sequence: /mTag/AFpred/1110110100011
+[2023-04-25 05:58:32.888368] ===== Seqs remaining to fold: 54165
+b'cp0'
+[2023-04-25 05:59:53.641879 ===== Got request, sending the sequence: /mTag/AFpred/1110110100111
+[2023-04-25 05:59:53.641893] ===== Seqs remaining to fold: 54164
+b'cp3'
+[2023-04-25 06:02:33.850766 ===== Got request, sending the sequence: /mTag/AFpred/1111101011111
+[2023-04-25 06:02:33.850783] ===== Seqs remaining to fold: 54163
+b'cp2'
+[2023-04-25 06:09:41.240275 ===== Got request, sending the sequence: /mTag/AFpred/1111010010000
+[2023-04-25 06:09:41.240292] ===== Seqs remaining to fold: 54162
+b'cp0'
+[2023-04-25 06:11:08.903979 ===== Got request, sending the sequence: /mTag/AFpred/1111110011010
+[2023-04-25 06:11:08.903996] ===== Seqs remaining to fold: 54161
+b'cp3'
+[2023-04-25 06:19:07.308240 ===== Got request, sending the sequence: /mTag/AFpred/1111111010100
+[2023-04-25 06:19:07.308254] ===== Seqs remaining to fold: 54160
+b'cp2'
+[2023-04-25 06:21:19.227576 ===== Got request, sending the sequence: /mTag/AFpred/1110110100100
+[2023-04-25 06:21:19.227591] ===== Seqs remaining to fold: 54159
+b'cp0'
+[2023-04-25 06:22:25.691601 ===== Got request, sending the sequence: /mTag/AFpred/1110101001000
+[2023-04-25 06:22:25.691617] ===== Seqs remaining to fold: 54158
+b'cp3'
+[2023-04-25 06:23:12.173195 ===== Got request, sending the sequence: /mTag/AFpred/1111000100011
+[2023-04-25 06:23:12.173210] ===== Seqs remaining to fold: 54157
+b'cp2'
+[2023-04-25 06:32:55.959037 ===== Got request, sending the sequence: /mTag/AFpred/1111111111001
+[2023-04-25 06:32:55.959053] ===== Seqs remaining to fold: 54156
+b'cp0'
+[2023-04-25 06:33:40.203831 ===== Got request, sending the sequence: /mTag/AFpred/1111100111111
+[2023-04-25 06:33:40.203846] ===== Seqs remaining to fold: 54155
+b'cp3'
+[2023-04-25 06:39:46.598044 ===== Got request, sending the sequence: /mTag/AFpred/1111001110111
+[2023-04-25 06:39:46.598059] ===== Seqs remaining to fold: 54154
+b'cp3'
+[2023-04-25 06:43:45.864380 ===== Got request, sending the sequence: /mTag/AFpred/1111110011011
+[2023-04-25 06:43:45.864395] ===== Seqs remaining to fold: 54153
+b'cp2'
+[2023-04-25 06:44:35.599425 ===== Got request, sending the sequence: /mTag/AFpred/1111111100000
+[2023-04-25 06:44:35.599440] ===== Seqs remaining to fold: 54152
+b'cp0'
+[2023-04-25 06:44:55.576160 ===== Got request, sending the sequence: /mTag/AFpred/1110110100101
+[2023-04-25 06:44:55.576174] ===== Seqs remaining to fold: 54151
+b'cp0'
+[2023-04-25 06:56:09.200169 ===== Got request, sending the sequence: /mTag/AFpred/1110101001001
+[2023-04-25 06:56:09.200183] ===== Seqs remaining to fold: 54150
+b'cp2'
+[2023-04-25 06:56:12.831779 ===== Got request, sending the sequence: /mTag/AFpred/1111001101000
+[2023-04-25 06:56:12.831793] ===== Seqs remaining to fold: 54149
+b'cp3'
+[2023-04-25 07:00:17.904671 ===== Got request, sending the sequence: /mTag/AFpred/1111111111010
+[2023-04-25 07:00:17.904685] ===== Seqs remaining to fold: 54148
+b'cp3'
+[2023-04-25 07:04:21.846972 ===== Got request, sending the sequence: /mTag/AFpred/1101110110010
+[2023-04-25 07:04:21.846986] ===== Seqs remaining to fold: 54147
+b'cp0'
+[2023-04-25 07:07:23.829572 ===== Got request, sending the sequence: /mTag/AFpred/1111001111000
+[2023-04-25 07:07:23.829586] ===== Seqs remaining to fold: 54146
+b'cp2'
+[2023-04-25 07:07:48.855341 ===== Got request, sending the sequence: /mTag/AFpred/1111110011100
+[2023-04-25 07:07:48.855375] ===== Seqs remaining to fold: 54145
+b'cp0'
+[2023-04-25 07:18:38.915574 ===== Got request, sending the sequence: /mTag/AFpred/1110001110110
+[2023-04-25 07:18:38.915591] ===== Seqs remaining to fold: 54144
+b'cp2'
+[2023-04-25 07:19:23.607445 ===== Got request, sending the sequence: /mTag/AFpred/1110101001010
+[2023-04-25 07:19:23.607469] ===== Seqs remaining to fold: 54143
+b'cp3'
+[2023-04-25 07:20:54.686015 ===== Got request, sending the sequence: /mTag/AFpred/1111000010101
+[2023-04-25 07:20:54.686030] ===== Seqs remaining to fold: 54142
+b'cp3'
+[2023-04-25 07:24:55.398221 ===== Got request, sending the sequence: /mTag/AFpred/1111111111011
+[2023-04-25 07:24:55.398238] ===== Seqs remaining to fold: 54141
+b'cp0'
+[2023-04-25 07:29:52.879878 ===== Got request, sending the sequence: /mTag/AFpred/1101110110011
+[2023-04-25 07:29:52.879893] ===== Seqs remaining to fold: 54140
+b'cp2'
+[2023-04-25 07:30:58.616256 ===== Got request, sending the sequence: /mTag/AFpred/1111001111001
+[2023-04-25 07:30:58.616271] ===== Seqs remaining to fold: 54139
+b'cp0'
+[2023-04-25 07:41:06.703653 ===== Got request, sending the sequence: /mTag/AFpred/1111110011101
+[2023-04-25 07:41:06.703667] ===== Seqs remaining to fold: 54138
+b'cp3'
+[2023-04-25 07:41:28.599390 ===== Got request, sending the sequence: /mTag/AFpred/1110001110111
+[2023-04-25 07:41:28.599405] ===== Seqs remaining to fold: 54137
+b'cp2'
+[2023-04-25 07:42:34.729243 ===== Got request, sending the sequence: /mTag/AFpred/1110101001011
+[2023-04-25 07:42:34.729257] ===== Seqs remaining to fold: 54136
+b'cp3'
+[2023-04-25 07:45:33.583456 ===== Got request, sending the sequence: /mTag/AFpred/1111000011111
+[2023-04-25 07:45:33.583471] ===== Seqs remaining to fold: 54135
+b'cp0'
+[2023-04-25 07:52:25.027766 ===== Got request, sending the sequence: /mTag/AFpred/1111111111100
+[2023-04-25 07:52:25.027781] ===== Seqs remaining to fold: 54134
+b'cp2'
+[2023-04-25 07:54:12.521603 ===== Got request, sending the sequence: /mTag/AFpred/1101110110100
+[2023-04-25 07:54:12.521618] ===== Seqs remaining to fold: 54133
+b'cp3'
+[2023-04-25 08:01:58.495363 ===== Got request, sending the sequence: /mTag/AFpred/1111010001000
+[2023-04-25 08:01:58.495380] ===== Seqs remaining to fold: 54132
+b'cp0'
+[2023-04-25 08:03:43.889517 ===== Got request, sending the sequence: /mTag/AFpred/1111110011110
+[2023-04-25 08:03:43.889533] ===== Seqs remaining to fold: 54131
+b'cp2'
+[2023-04-25 08:05:52.653641 ===== Got request, sending the sequence: /mTag/AFpred/1110101001100
+[2023-04-25 08:05:52.653655] ===== Seqs remaining to fold: 54130
+b'cp3'
+[2023-04-25 08:06:08.089286 ===== Got request, sending the sequence: /mTag/AFpred/1110110110000
+[2023-04-25 08:06:08.089301] ===== Seqs remaining to fold: 54129
+b'cp0'
+[2023-04-25 08:14:55.316233 ===== Got request, sending the sequence: /mTag/AFpred/1111000100001
+[2023-04-25 08:14:55.316249] ===== Seqs remaining to fold: 54128
+b'cp2'
+[2023-04-25 08:17:31.272900 ===== Got request, sending the sequence: /mTag/AFpred/1111111111101
+[2023-04-25 08:17:31.272914] ===== Seqs remaining to fold: 54127
+b'cp3'
+[2023-04-25 08:22:31.609771 ===== Got request, sending the sequence: /mTag/AFpred/1101110110101
+[2023-04-25 08:22:31.609787] ===== Seqs remaining to fold: 54126
+b'cp0'
+[2023-04-25 08:26:08.332257 ===== Got request, sending the sequence: /mTag/AFpred/1111010001011
+[2023-04-25 08:26:08.332272] ===== Seqs remaining to fold: 54125
+b'cp3'
+[2023-04-25 08:26:46.294282 ===== Got request, sending the sequence: /mTag/AFpred/1111110011111
+[2023-04-25 08:26:46.294296] ===== Seqs remaining to fold: 54124
+b'cp2'
+[2023-04-25 08:29:07.958311 ===== Got request, sending the sequence: /mTag/AFpred/1110101001101
+[2023-04-25 08:29:07.958326] ===== Seqs remaining to fold: 54123
+b'cp0'
+[2023-04-25 08:37:26.979251 ===== Got request, sending the sequence: /mTag/AFpred/1110110110001
+[2023-04-25 08:37:26.979265] ===== Seqs remaining to fold: 54122
+b'cp2'
+[2023-04-25 08:40:46.954647 ===== Got request, sending the sequence: /mTag/AFpred/1111111111110
+[2023-04-25 08:40:46.954664] ===== Seqs remaining to fold: 54121
+b'cp3'
+[2023-04-25 08:43:11.272388 ===== Got request, sending the sequence: /mTag/AFpred/1101110110110
+[2023-04-25 08:43:11.272404] ===== Seqs remaining to fold: 54120
+b'cp3'
+[2023-04-25 08:47:20.000692 ===== Got request, sending the sequence: /mTag/AFpred/1111010001100
+[2023-04-25 08:47:20.000707] ===== Seqs remaining to fold: 54119
+b'cp0'
+[2023-04-25 08:48:48.807338 ===== Got request, sending the sequence: /mTag/AFpred/1111110100000
+[2023-04-25 08:48:48.807368] ===== Seqs remaining to fold: 54118
+b'cp2'
+[2023-04-25 08:52:23.761436 ===== Got request, sending the sequence: /mTag/AFpred/1110110101000
+[2023-04-25 08:52:23.761451] ===== Seqs remaining to fold: 54117
+b'cp0'
+[2023-04-25 09:00:01.288221 ===== Got request, sending the sequence: /mTag/AFpred/1111111111111
+[2023-04-25 09:00:01.288237] ===== Seqs remaining to fold: 54116
+b'cp3'
+[2023-04-25 09:03:45.324561 ===== Got request, sending the sequence: /mTag/AFpred/1101110110111
+[2023-04-25 09:03:45.324577] ===== Seqs remaining to fold: 54115
+b'cp2'
+[2023-04-25 09:03:59.033922 ===== Got request, sending the sequence: /mTag/AFpred/1111110100010
+[2023-04-25 09:03:59.033937] ===== Seqs remaining to fold: 54114
+b'cp3'
+[2023-04-25 09:07:52.178620 ===== Got request, sending the sequence: /mTag/AFpred/1110110101001
+[2023-04-25 09:07:52.178635] ===== Seqs remaining to fold: 54113
+b'cp0'
+[2023-04-25 09:11:13.328829 ===== Got request, sending the sequence: /mTag/AFpred/1101110111000
+[2023-04-25 09:11:13.328845] ===== Seqs remaining to fold: 54112
+b'cp2'
+[2023-04-25 09:15:36.888881 ===== Got request, sending the sequence: /mTag/AFpred/1111110100011
+[2023-04-25 09:15:36.888896] ===== Seqs remaining to fold: 54111
+b'cp0'
+[2023-04-25 09:22:29.432119 ===== Got request, sending the sequence: /mTag/AFpred/1110110101010
+[2023-04-25 09:22:29.432134] ===== Seqs remaining to fold: 54110
+b'cp3'
+[2023-04-25 09:24:25.106833 ===== Got request, sending the sequence: /mTag/AFpred/1101110111001
+[2023-04-25 09:24:25.106847] ===== Seqs remaining to fold: 54109
