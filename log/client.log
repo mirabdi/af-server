@@ -1,2 +1,120 @@
 2023-03-31 21:40:05.232498: W external/org_tensorflow/tensorflow/tsl/platform/default/dso_loader.cc:66] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory
 2023-03-31 21:40:05.232830: W external/org_tensorflow/tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:265] failed call to cuInit: UNKNOWN ERROR (303)
+Running colabfold_batch on  /mTag/AFpred/1111100111001
+Running colabfold_batch on  /mTag/AFpred/1110110101100
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Running colabfold_batch on 
+Traceback (most recent call last):
+  File "/home/main/dev/localcolabfold/colabfold-conda/lib/python3.9/site-packages/colabfold/batch.py", line 1204, in run
+    jax.tools.colab_tpu.setup_tpu()
+  File "/home/main/dev/localcolabfold/colabfold-conda/lib/python3.9/site-packages/jax/tools/colab_tpu.py", line 38, in setup_tpu
+    colab_tpu_addr = os.environ['COLAB_TPU_ADDR'].split(':')[0]
+  File "/home/main/dev/localcolabfold/colabfold-conda/lib/python3.9/os.py", line 679, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'COLAB_TPU_ADDR'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/main/dev/localcolabfold/colabfold-conda/bin/colabfold_batch", line 8, in <module>
+    sys.exit(main())
+  File "/home/main/dev/localcolabfold/colabfold-conda/lib/python3.9/site-packages/colabfold/batch.py", line 1777, in main
+    run(
+  File "/home/main/dev/localcolabfold/colabfold-conda/lib/python3.9/site-packages/colabfold/batch.py", line 1214, in run
+    import tensorflow as tf
+  File "/home/main/dev/localcolabfold/colabfold-conda/lib/python3.9/site-packages/tensorflow/__init__.py", line 470, in <module>
+    _keras._load()
+  File "/home/main/dev/localcolabfold/colabfold-conda/lib/python3.9/site-packages/tensorflow/python/util/lazy_loader.py", line 41, in _load
+    module = importlib.import_module(self.__name__)
+  File "/home/main/dev/localcolabfold/colabfold-conda/lib/python3.9/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "/home/main/dev/localcolabfold/colabfold-conda/lib/python3.9/site-packages/keras/__init__.py", line 21, in <module>
+    from keras import models
+  File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 986, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 680, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 978, in get_code
+  File "<frozen importlib._bootstrap_external>", line 647, in _compile_bytecode
+KeyboardInterrupt
+Running colabfold_batch on  /mTag/AFpred/1101110111100
+Running colabfold_batch on  /mTag/AFpred/1101110111101

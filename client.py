@@ -1,9 +1,17 @@
 import configparser
 import time
 import zmq
+import json
 import sys
-
+import os
 from base import DistributionBase, get_args
+import platform
+
+DIR = os.getcwd()
+
+
+import platform
+computer_id = platform.node()
 
 
 class ConsumerClient(DistributionBase):
@@ -25,7 +33,7 @@ class ConsumerClient(DistributionBase):
             self.request_one()
 
     def request_one(self):
-        self.sock.send_string("cp0")
+        self.sock.send_string(computer_id)
         seq = self.sock.recv_string()
         # sys.stdout.write("")
         sys.stdout.write(seq)

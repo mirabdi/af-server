@@ -5,9 +5,10 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.base import MIMEBase
 from email import encoders
 import json
+import os
 
+DIR = os.getcwd()
 
-DIR = "/home/protein/Protein/af-server"
 def update_variables(data):
     with open(f"{DIR}/variables.json", 'w') as f:
     # Write the JSON data to the file
@@ -37,13 +38,13 @@ def notify_users():
     if datetime.datetime.now() - last_email < datetime.timedelta(days=1):
         return
     sender_email = "abdirasulov.main@gmail.com"
-    #receiver_emails = ["kerekemesterge@gmail.com", "jmmcbride@protonmail.com"]
+    # receiver_emails = ["kerekemesterge@gmail.com", "jmmcbride@protonmail.com"]
     receiver_emails = ["kerekemesterge@gmail.com"]
-    password = "zxcbkryxuzhlsvfz"
+    password = "password_comes_here"
 
     subject = "Alphafold ERROR MESSAGES"
     
-    body = f"Hi, \n \n The computers {no_request} didn't ask for new sequence in the last hour. You might want to check it. If the problem persists, I will send a new email in 24 hours.\n \n Note that :\n cp1: Amir's computer, \n cp2: John's computer, \n cp3: Mansur's computer\n \n Not sincerely (cause I am just a script),\n AFserver bot "
+    body = f"Hi, \n \n The computers {no_request} didn't ask for new sequence in the last hour. You might want to check it. If the problem persists, I will send a new email in 24 hours. \n Not sincerely (cause I am just a script),\n AFserver bot "
 
 
     smtp_server = "smtp.gmail.com"
